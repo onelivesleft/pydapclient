@@ -1,0 +1,7 @@
+16:23:35.280666: Log
+---
+
+16:23:35.286668: UnityDebug
+16:23:35.290668: Running session
+16:23:35.302667: Constructing UnityDebugSession
+16:23:35.320668: Done constructing UnityDebugSession
